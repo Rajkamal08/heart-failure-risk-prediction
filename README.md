@@ -14,7 +14,7 @@ An AI-powered **Clinical Decision Support System** that predicts heart failure m
 - **Heart Health Scoring** — Automated scoring against cardiology reference ranges (0–100 scale)
 - **Clinical Recommendations** — Evidence-based, tier-specific action plans for clinicians
 - **PDF Report Generation** — Downloadable clinical decision support reports
-- **Interactive Dashboard** — Real-time inference with dynamic visualizations
+- **Interactive Dashboard** — Real-time inference with dynamic 
 
 ## 🧬 Clinical Biomarkers Used
 
